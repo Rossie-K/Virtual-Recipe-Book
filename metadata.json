@@ -1,0 +1,6 @@
+{
+  "name": "The Grand Heirloom Recipe Book",
+  "description": "An interactive vintage culinary journal with popular heritage recipes, recipe modifier, serving scaler, interactive step-by-step cooking mode, and pantry shopping list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
