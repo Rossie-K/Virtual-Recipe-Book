@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 ### 📜 1. Virtual Vintage Cookbook Experience
 - **Two-Page Open Book Aesthetic**: Designed with warm archival paper textures, subtle page creases, foil stamps, ribbon bookmarks, and classic serif typography (*Cormorant Garamond* paired with *Plus Jakarta Sans*).
